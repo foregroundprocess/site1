@@ -1,2 +1,2 @@
 # site1
-cource task
+course task
